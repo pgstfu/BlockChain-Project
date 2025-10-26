@@ -18,8 +18,8 @@
 ![alt text](image-5.png)
 - Now we can see that transaction online on the sepolia site also publicly this is the BLOCKCHAIN.
 
-✅ Installed a Web3 wallet
-✅ Switched networks
-✅ Claimed test ETH (from a public blockchain faucet)
-✅ Made a blockchain transaction
-✅ Tracked it on a public explorer
+- ✅ Installed a Web3 wallet
+- ✅ Switched networks
+- ✅ Claimed test ETH (from a public blockchain faucet)
+- ✅ Made a blockchain transaction
+- ✅ Tracked it on a public explorer
